@@ -58,7 +58,6 @@ ul {
         
 *{
     font-family:swap,Georgia;
-    font-size: 35px;
     letter-spacing: 2px;
     word-spacing: 2px;
     color: #AD0917;
@@ -66,8 +65,7 @@ ul {
     text-decoration: none;
     font-style: italic;
     font-variant: normal;
-    text-transform: capitalize;
-}
+   }
 
 
 
