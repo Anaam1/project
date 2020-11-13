@@ -96,14 +96,13 @@ footer {
     bottom: 0;
     width: 100%;
     background-color: rgba(148, 138, 130, 0.89);
-    color: rgb(10, 0, 0);
     text-align: center;
 }
 
 input[type=text], select, textarea {
     width: 100%; 
     padding: 12px; 
-    border: 1px solid #ccc; 
+    border: 1px solid  rgb(224, 221, 221);
     border-radius: 4px; 
     box-sizing: border-box; 
     margin-top: 6px; 
@@ -112,7 +111,7 @@ input[type=text], select, textarea {
   }
   
   input[type=submit] {
-    background-color: #ffda0b;
+    background-color:#b85606;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -121,13 +120,13 @@ input[type=text], select, textarea {
   }
 
   input[type=submit]:hover {
-    background-color: #d3930b;
+    background-color: #;
 
   }
   
 
   .container {
     border-radius: 5px;
-    background-color: #c48807;
+    background-color: #d8d8d8;
     padding: 20px;
   }
