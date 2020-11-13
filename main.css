@@ -1,13 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@700&display=swap');
+
 .logo { width: 50%;
         height: 50%;
 }
-
-div{
-      float: right;
-  }
-
-
 
 nav{
     margin: 5px;
