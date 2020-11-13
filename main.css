@@ -3,6 +3,12 @@
         height: 50%;
 }
 
+div{
+      float: right;
+  }
+
+
+
 nav{
     margin: 5px;
     display: block;
